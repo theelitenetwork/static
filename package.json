@@ -1,0 +1,10 @@
+{
+    "name": "Static",
+    "version": "1.0",
+    "description": "Just the static pages for Elite Network - a social network",
+    "author": "Flavius-Constantin Borlovan",
+    "license": "ISC",
+    "devDependencies": {
+        "@tailwindcss/typography": "^0.5.10"
+    }
+}
